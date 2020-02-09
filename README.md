@@ -1,5 +1,6 @@
 # Corona Story
 
+## This application describes what is corona virus , what's the reasons of the virus & how to deal with it.
 In December 2019, there was a cluster of pneumonia cases in China. Investigations found that it was caused by a previously unknown virus, now named the 2019 Novel Coronavirus. In this video we'll take a quick look at what is currently known about the virus. Keep in mind this is a new virus, and what's known about the virus now might change in the future.
 
 Coronaviruses are a large group of viruses; they consist of a core of genetic material surrounded by an envelope of proteins spikes. This gives it the appearance of a crown. Crown in Latin is called 'Corona' and that's how these viruses get their name. There are different types of coronaviruses that causes respiratory and sometimes gastrointestinal symptoms. Respiratory symptoms can range from the common cold to pneumonia and in most people the symptoms tend to be mild. However, there are some types of coronaviruses that can cause severe disease, these include SARS - Coronavirus, identified in China 2003, and MERS - Coronavirus, that was first identified in Saudi Arabia in 2012. The 2019 Coronavirus was first identified in China 2019.
