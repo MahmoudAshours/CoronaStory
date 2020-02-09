@@ -1,16 +1,17 @@
-# corona
+# Corona Story
 
-A new Flutter project.
+In December 2019, there was a cluster of pneumonia cases in China. Investigations found that it was caused by a previously unknown virus, now named the 2019 Novel Coronavirus. In this video we'll take a quick look at what is currently known about the virus. Keep in mind this is a new virus, and what's known about the virus now might change in the future.
 
-## Getting Started
+Coronaviruses are a large group of viruses; they consist of a core of genetic material surrounded by an envelope of proteins spikes. This gives it the appearance of a crown. Crown in Latin is called 'Corona' and that's how these viruses get their name. There are different types of coronaviruses that causes respiratory and sometimes gastrointestinal symptoms. Respiratory symptoms can range from the common cold to pneumonia and in most people the symptoms tend to be mild. However, there are some types of coronaviruses that can cause severe disease, these include SARS - Coronavirus, identified in China 2003, and MERS - Coronavirus, that was first identified in Saudi Arabia in 2012. The 2019 Coronavirus was first identified in China 2019.
 
-This project is a starting point for a Flutter application.
+It initially occurred in a group of people with pneumonia, who'd been associated with seafood and animal markets in Wuhan. The disease has since spread from the sick to others including family members and healthcare staff. There are many cases at present and has spread within China and other countries.
 
-A few resources to get you started if this is your first Flutter project:
+So, where did the virus come from? It's known that the coronaviruses circulate in a range of animals. Sometimes these viruses can make the jump from animals to humans. This is called a spillover and could be due to a range of factors, such as mutations in the virus or increased between humans and animals. For example, MERS from Camels and SARS from civet cats. The animal reservoir of the 2019 coronavirus is not known yet.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+How is it transmitted? The exact dynamic of how the virus is transmitted is yet to be determined, in general respiratory is usually transmitted through droplets created when an infected person coughs or sneezes or through something that has been contaminated with the virus. People most at risk of infection from a novel coronavirus are those in close contact with animals, such as animal workers and those who are caring for people who are infected with the virus, such as family members or healthcare workers.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+So. How does the disease present? (Symptoms) Well, from what is known so far there could be a number of symptoms ranging from mild to severe. There can be fever and respiratory symptoms such as cough and shortness of breath. In more severe cases there's been pneumonia, kidney failure and death. The mortality rate is not known yet. 
+
+How can we tell if someone is infected? (Diagnosis) The infection can be diagnosed with a test known as PCR or Polymerase Chain Reaction. This test identifies the virus based off its genetic fingerprint. There's currently no known medication for the virus and treatment is supportive care. There is currently no vaccine to protect from the virus. Treatments and vaccines are in development.
+
+How do we prevent transmission of the virus? This new virus currently has a limited geographic spread, however there are a number of standard hygiene practices that have been recommended to protect against infection and further spread. These include covering your mouth and nose with a medical mask, tissue or flexed elbow. Avoid close contact with those who are unwell. The appropriate use of masks and personal protective equipment, especially in the health care setting, washing hands regularly with soap and water or alcohol-based hand rub. Actions that can be taken to prevent infection from an animal source include: Avoiding unnecessary contact with animals, washing hands after contact with animals or animal products and ensuring animal products are cooked thoroughly before they're consumed. It's important to stay home if you're feeling unwell, but if you have a fever, cough or difficulty of breathing seek medical care early and share your previous travel history with your health care provider.
